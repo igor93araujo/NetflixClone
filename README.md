@@ -1,5 +1,5 @@
 # NetflixClone
-Projeto Netflix popcorn
+Projeto Netflix :tv:
 
 bulb Conhecimentos aplicados:
 HTML
