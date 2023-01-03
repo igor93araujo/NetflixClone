@@ -1,7 +1,7 @@
 # NetflixClone
 Projeto Netflix :tv:
 
-bulb Conhecimentos aplicados:
+:bulb: Conhecimentos aplicados:
 HTML
 CSS
 React
