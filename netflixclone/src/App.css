@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Inknut+Antiqua&family=Roboto:wght@400;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+  color: #fff;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.lists {
+  margin-top: -150px;
+}
+
+footer {
+  margin: 50px 0;
+text-align: center;
+}
+
+footer a {
+  color: white;
+}
+
+.loading {
+  position: fixed;
+  top: 0;
+  left:0;
+  right: 0;
+  bottom: 0;
+  z-index: 99;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
