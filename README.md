@@ -1,2 +1,10 @@
 # NetflixClone
-Esse é um clone da página inicial do netflix desenvolvido em React. 
+Projeto Netflix popcorn
+
+bulb Conhecimentos aplicados:
+HTML
+CSS
+React
+JavaScript
+API Request
+Manipulação da biblioteca Material/ui
