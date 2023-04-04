@@ -1,6 +1,8 @@
 # NetflixClone
 Projeto Netflix Clone :tv:
 
+Esse projeto é uma single page application onde o usuário pode navegar na página inicial do Netflex, tendo acesso aos filmes recentes, filmes ordenados por categorias e navegar pelas classificações. Desenvolvido para sistemas web e web mobile com media query.
+
 :bulb: Conhecimentos aplicados:<br/>
 HTML<br/>
 CSS<br/>
